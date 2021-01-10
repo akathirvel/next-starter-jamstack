@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>First netlify +Jamstack </h1>
 
     <h3>Hello Angless Welcome to Janstack <a href="https://nextjs.org">Next.js</a>!</h3>
 
